@@ -18,6 +18,9 @@
 ---
 📄 Currículum Vítae
 
+Descargar aquí:
+
+https://github.com/JazminCastro22/assetsperfil/blob/0ca171241b2e964a951d7f9dbd9ebd0018be14ac/CV%20Jazmin%20Hernandez%20Castro.pdf
 
 ---
 
