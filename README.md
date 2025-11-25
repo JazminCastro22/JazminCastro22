@@ -103,7 +103,7 @@ Aplicación de Realidad Aumentada sobre la Célula Animal:
 https://drive.google.com/file/d/1G_4BTPIWmnOptkUXDWL0LybPTh9mE3d_/view?usp=sharing
 
 
-Recorrido Virtual de la Universidad Tcenológica de Tlaxcala:
+Recorrido Virtual de la Universidad Tecnológica de Tlaxcala:
 
 https://drive.google.com/file/d/1G_4BTPIWmnOptkUXDWL0LybPTh9mE3d_/view?usp=sharing
 
