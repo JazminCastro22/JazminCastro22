@@ -53,6 +53,11 @@ Animación de los modelos dentro de la aplicación.
 
 Diseño completo de interfaces y botones (UX/UI).
 
+<div align="center">
+<img src="https://github.com/JazminCastro22/assetsperfil/blob/6ee949249f4f3b8ee843f82c74a97106c62664fc/Feria.png" width="600" alt="Captura de la aplicación del cuento INEs y sus Monedas" />
+</div>
+
+
 2. 📖 Cuento Animado en Náhuatl: "Inés y sus Monedas"
 Desarrollo de una aplicación móvil cuyo objetivo principal fue dar vida y animar el cuento en lengua náhuatl llamado "Inés y sus Monedas", usando tecnología de Realidad Aumentada.
 
