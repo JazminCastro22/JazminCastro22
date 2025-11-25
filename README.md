@@ -9,6 +9,15 @@
 
 
 ---
+📞 Contacto
+
+📧 **Email:** jazmincastro110318@gmail.com
+
+📱 **Celular:** (+52) 247 109 8030 
+
+  
+---
+
 **👩‍💼¿Quién soy?**
 
 Soy una profesional técnica universitaria (TSU) en Tecnologías de la Información, Área Entornos Virtuales y Negocios Digitales  con experiencia en desarrollo creativo y gestión de proyectos. Mi objetivo es integrarme a un equipo dinámico y contribuir con mis conocimientos para alcanzar resultados sobresalientes.
