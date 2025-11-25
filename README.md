@@ -86,3 +86,14 @@ Mi Contribución: Animación de la narrativa y trabajo técnico para la implemen
 </div>
 A continuación mostrare mis proyectos:
 
+--- 
+Apliaación de Realidad Aumentada sobre la Célula Animal:
+
+https://drive.google.com/file/d/1G_4BTPIWmnOptkUXDWL0LybPTh9mE3d_/view?usp=sharing
+
+---
+Recorrido Virtual de la Universidad Tcenológica de Tlaxcala 
+
+https://drive.google.com/file/d/1G_4BTPIWmnOptkUXDWL0LybPTh9mE3d_/view?usp=sharing
+
+
