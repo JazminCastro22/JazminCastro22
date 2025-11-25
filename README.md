@@ -1,6 +1,13 @@
-## Hola... soy Jazmin Hernandez Castro 👋
+<div align="center">
+  
+# Hola... soy Jazmin Hernandez Castro 👋
 
-🎓 TSU en Tecnologías de la Información, Área Entornos Virtuales y Negocios Digitales
+</div>
+
+
+🎓 TSU en Tecnologías de la Información Área Entornos Virtuales y Negocios Digitales
+
+
 ---
 **👩‍💼¿Quién soy?**
 
@@ -66,3 +73,16 @@ Objetivo Cultural: Preservación y difusión de la cultura y la lengua náhuatl 
 Tecnologías Clave: Realidad Aumentada (RA), Animación Digital.
 
 Mi Contribución: Animación de la narrativa y trabajo técnico para la implementación de la RA.
+
+<div align="center">
+<img src="https://github.com/JazminCastro22/assetsperfil/blob/6ee949249f4f3b8ee843f82c74a97106c62664fc/In%C3%A9s.png" width="600" alt="Captura de la aplicación del cuento INEs y sus Monedas" />
+</div>
+
+---
+<div align="center">
+  
+## 📁 Proyectos Realizados
+
+</div>
+A continuación mostrare mis proyectos:
+
