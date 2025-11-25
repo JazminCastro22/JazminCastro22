@@ -56,9 +56,11 @@ Mis Tareas:
 
 Modelado 3D de personajes para la experiencia interactiva.
 
-Animación de los modelos dentro de la aplicación.
+Animación de personajes dentro de la aplicación.
 
-Diseño completo de interfaces y botones (UX/UI).
+Diseño completo de interfaces, botones, intrucciones (UX/UI).
+
+Edición de audio para las voces de los personajes.
 
 <div align="center">
 <img src="https://github.com/JazminCastro22/assetsperfil/blob/6ee949249f4f3b8ee843f82c74a97106c62664fc/Feria.png" width="600" alt="Captura de la aplicación del cuento INEs y sus Monedas" />
@@ -72,7 +74,7 @@ Objetivo Cultural: Preservación y difusión de la cultura y la lengua náhuatl 
 
 Tecnologías Clave: Realidad Aumentada (RA), Animación Digital.
 
-Mi Contribución: Animación de la narrativa y trabajo técnico para la implementación de la RA.
+Mi Contribución: Modelado de personajes con animación avanzada y trabajo técnico para la implementación de la RA.
 
 <div align="center">
 <img src="https://github.com/JazminCastro22/assetsperfil/blob/6ee949249f4f3b8ee843f82c74a97106c62664fc/In%C3%A9s.png" width="600" alt="Captura de la aplicación del cuento INEs y sus Monedas" />
@@ -86,14 +88,27 @@ Mi Contribución: Animación de la narrativa y trabajo técnico para la implemen
 </div>
 A continuación mostrare mis proyectos:
 
---- 
-Apliaación de Realidad Aumentada sobre la Célula Animal:
+
+Aplicación de Realidad Aumentada sobre la Célula Animal:
 
 https://drive.google.com/file/d/1G_4BTPIWmnOptkUXDWL0LybPTh9mE3d_/view?usp=sharing
 
----
-Recorrido Virtual de la Universidad Tcenológica de Tlaxcala 
+
+Recorrido Virtual de la Universidad Tcenológica de Tlaxcala:
 
 https://drive.google.com/file/d/1G_4BTPIWmnOptkUXDWL0LybPTh9mE3d_/view?usp=sharing
+
+Videojuego ECO-HERO'S, en donde participe en diseño, modelado 3D del escenario, animación de personajes, edición de video y audio para las cinematicas:
+
+https://drive.google.com/file/d/1lurK-ySeUsuVFvxBJU9sxH5PKmu8bXWi/view?usp=drive_link
+
+Link de la APK de Inés y sus monedas:
+
+https://drive.google.com/file/d/1NPL6-O1wvvf92WYi3MOMyfyvgOkfv_L0/view?usp=sharing
+
+Link de APK de la Feria Geek:
+
+https://drive.google.com/file/d/16ptNlUZJ-sCoVsej073Mj3vXnAy7lviD/view?usp=drivesdk
+
 
 
