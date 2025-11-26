@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hola... soy Jazmin Hernandez Castro 👋
+# Hola... Soy Jazmin Hernandez Castro 👋
 
 </div>
 
